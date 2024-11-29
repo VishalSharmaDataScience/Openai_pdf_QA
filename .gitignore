@@ -1,1 +1,5 @@
 openai_pdf_qa_env/
+.env
+nltk_data/
+
+
